@@ -1,6 +1,6 @@
-# WhatsApp BOT
+# Centimeter BOT
 
-Starter Project untuk membuat project WhatsApp BOT dengan menggunakan library [Pepesan](https://github.com/mqad21/pepesan) dan [Baileys](https://github.com/WhiskeySockets/Baileys)
+Starter Project untuk membuat project WhatsApp BOT dengan menggunakan library Septi Aji (github repo yang saya fork), [Pepesan](https://github.com/mqad21/pepesan) dan [Baileys](https://github.com/WhiskeySockets/Baileys)
 
 Dengan menggunakan library Pepesan, pembuatan BOT WhatsApp jauh lebih mudah dan ringkas. Kesulitan utama dalam pembuatan BOT WhatsApp adalah meminta BOT untuk mengingat dia sedang dalam menu apa (pengaturan state), nah dengan menggunakan library Pepesan ini, kesulitan itu sudah bisa teratasi. 
 
