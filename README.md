@@ -13,9 +13,9 @@ cp .env.example .env
 ```
 2. install dependency
 ```
-npm install
+npm install && npm install -g pm2
 ```
 3. jalankan bot
 ```
-npm run dev
+npm run dev && pm2 save && pm2 startup
 ```
